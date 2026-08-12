@@ -2,6 +2,7 @@
 
 Scripts para transformar uma Raspberry Pi em um **kiosk de exibição automática** de uma página web, com reinício automático, atualização periódica e resistência a falhas.
 
+Essa versão é livre, então esteja livre para alterar modificar ou fazer o que desejar.
 ---
 
 ## 📁 Arquivos
@@ -190,6 +191,8 @@ PROFILE_DIR="/home/SEU_USUARIO/.config/chromium"
 | Tela Preta | só colocar o autostart na local do operador `~/.config/lxsession/LXDE-pi/autostart.`|
 
 ---
+
+by: Pétryck Slater
 
 ## 📝 Licença
 
