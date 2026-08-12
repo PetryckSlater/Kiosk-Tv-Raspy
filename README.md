@@ -1,4 +1,4 @@
-# 🖥️ Raspberry Pi Kiosk – OAB PB
+# 🖥️ Raspberry Pi Kiosk – Versão Livre
 
 Scripts para transformar uma Raspberry Pi em um **kiosk de exibição automática** de uma página web, com reinício automático, atualização periódica e resistência a falhas.
 
